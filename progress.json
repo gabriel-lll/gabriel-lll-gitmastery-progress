@@ -7,5 +7,14 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1755782449.379885,
+    "completed_at": 1755782449.382556,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
   }
 ]
